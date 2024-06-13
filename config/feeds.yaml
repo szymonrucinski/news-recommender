@@ -1,0 +1,13 @@
+feeds:
+  - https://techcrunch.com/feed/
+  - https://www.theverge.com/rss/index.xml
+  - https://www.wired.com/feed/rss
+  - https://www.engadget.com/rss.xml
+  - http://feeds.arstechnica.com/arstechnica/index
+  - https://stackoverflow.blog/feed/
+  - https://github.blog/feed/
+  - https://dev.to/feed
+  - https://towardsdatascience.com/feed
+  - https://www.kdnuggets.com/feed
+  - https://krebsonsecurity.com/feed/
+  - https://threatpost.com/feed/
