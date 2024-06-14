@@ -8,5 +8,5 @@ ipykernel>=6.28.0
 fastapi
 uvicorn
 feedgen
-yaml
+# yaml
 feedparser
