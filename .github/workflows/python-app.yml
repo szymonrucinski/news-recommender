@@ -30,8 +30,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Run API
       run: |
-        python src/api/app.py & sleep 20 & curl 0.0.0.0:8000/rss
-
+        python src/api/app.py & sleep 50 & curl 0.0.0.0:8000/rss
     # - name: Lint with flake8
     #   run: |
     #     # stop the build if there are Python syntax errors or undefined names
